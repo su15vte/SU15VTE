@@ -7,6 +7,6 @@
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SU15VTE)
 
 
-
+Metrics (https://metrics.lecoq.io/embed?user=SU15VTE)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
