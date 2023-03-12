@@ -24,6 +24,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: SU15VTE
+          config_timezone: Asia/Guangdong
           template: classic
           plugin_calendar: yes
           plugin_calendar_limit: 1
