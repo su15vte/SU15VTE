@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on &aibo
 
 <img align='left' src='github-metrics.svg'>
+<img align='right' src='wife.png'>
 
 
 <!--START_SECTION:waka-->
